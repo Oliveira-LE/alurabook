@@ -15,4 +15,4 @@ Projeto feito durante o curso HTML e CSS: responsividade com mobile-first da Alu
 * SwiperJS
 
 ## Screenshots
-![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
+![Alura_books](https://github.com/Oliveira-LE/alurabook/assets/165970361/46031b34-46b5-46e9-b5ce-428720944946)
